@@ -15,7 +15,7 @@
 ex) /boards/viewBoard
 2. 회원(member) /*/member/** <br>
 ex) /boards/member/insertReview
-3. 관리지(admin) /*/admin/** <br>
+3. 관리자(admin) /*/admin/** <br>
 ex) /boards/admin/insertEvent
 
 <h2>파일 생성</h2>

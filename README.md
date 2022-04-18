@@ -1,6 +1,6 @@
 ## setting 할때 필요한 사항
 
-1. MYSQL 연결 정보 단톡방 확인<br>Cancel changes
+1. MYSQL 연결 정보 단톡방 확인<br>
 2. 테이블 생성 예정 (2022-03-14) members 생성
 
 ## 권한별로 경로 나누기
